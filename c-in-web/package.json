@@ -1,0 +1,23 @@
+{
+  "name": "c-in-web",
+  "version": "1.0.0",
+  "description": "A simple app to run c program (to increment number) in the browser using web assembly",
+  "main": "script.js",
+  "scripts": {
+    "start": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nitij/WebAssembly-Calculator.git"
+  },
+  "keywords": [],
+  "author": "Ansh Gujral",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nitij/WebAssembly-Calculator/issues"
+  },
+  "homepage": "https://github.com/Nitij/WebAssembly-Calculator#readme",
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  }
+}
